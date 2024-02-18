@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate in Some Good Projects
 - 📫 How to reach me :- No one "But if you want this is my E-mail => ayushsaha9928@gamil.com"
-- 😄 Pronouns: Ayush
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Dont know how to use this shit...
 
 <!---
