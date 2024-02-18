@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aayushcodex
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Some Good Projects
+- 💞️ I’m looking to collaborate in Some Good Projects
 - 📫 How to reach :- me No one "But if you want this is my E-mail => ayushsaha9928@gamil.com"
 - 😄 Pronouns: Ayush
 - ⚡ Fun fact: Dont know how to use this shit...
